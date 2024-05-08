@@ -1,5 +1,5 @@
 ## Qomponent
 
-![qomponent](qomponent.png)
+![qomponent](./qomponent.png)
 
 A set of webcomponents build with Lit
